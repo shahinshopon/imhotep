@@ -1,0 +1,4 @@
+enum FeedSubscriptionType {
+  free,
+  paid,
+}

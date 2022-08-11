@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "786777063368",
+    "project_id": "iamhotep-5adf2",
+    "storage_bucket": "iamhotep-5adf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786777063368:android:e88c0eaed0d9e97df08afd",
+        "android_client_info": {
+          "package_name": "com.example.imhotep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786777063368-ckq6o5h9g22b3cstb81flf4pnb2e8o7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnC70AreaKxR-fa8DZS3ZTxK4_cxY4x8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786777063368-ckq6o5h9g22b3cstb81flf4pnb2e8o7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786777063368:android:4d67fa012a78c733f08afd",
+        "android_client_info": {
+          "package_name": "com.mrimhotep.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786777063368-ckq6o5h9g22b3cstb81flf4pnb2e8o7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnC70AreaKxR-fa8DZS3ZTxK4_cxY4x8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786777063368-ckq6o5h9g22b3cstb81flf4pnb2e8o7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
